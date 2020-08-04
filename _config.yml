@@ -24,12 +24,12 @@ url: "https://leonardo-garcia.github.io"
 # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leonardoequih
 github_username:  leonardo-garcia
+linkedin_username: leonardo-garcia-equihua
 
 # Build settings
 markdown: kramdown
 
-theme: minima
-#theme: jekyll-whiteglass # local dev
+theme: jekyll-whiteglass
 #remote_theme: yous/whiteglass # github pages
 
 plugins:
