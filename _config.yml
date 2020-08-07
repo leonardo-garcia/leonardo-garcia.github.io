@@ -29,8 +29,8 @@ linkedin_username: leonardo-garcia-equihua
 # Build settings
 markdown: kramdown
 
-theme: jekyll-whiteglass
-#remote_theme: yous/whiteglass # github pages
+# theme: jekyll-whiteglass
+remote_theme: yous/whiteglass # Using remote theme for github pages
 
 plugins:
   - jekyll-feed
